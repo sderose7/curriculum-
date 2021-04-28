@@ -1,0 +1,136 @@
+body {
+  background-color: #2a9d8f;
+
+}
+.titolo{
+  color: #264653;
+  font-size:45px;
+  position:relative;
+  left:200px;
+  top:130px;
+  font-family: 'Pacifico', cursive;
+
+}
+
+.fonte{
+
+}
+
+.lampadina{
+  width: 350px;
+  height: 350px;
+  position: relative;
+  left:650px;
+  bottom: 150px;
+}
+
+.nuvola{
+  width: 250px;
+  height: 250px;
+  position: relative;
+  left:550px;
+  bottom:160px;
+}
+
+h2 {
+  font-family: 'Amatic SC', cursive;
+}
+a{
+  font-size: 35px;
+  font-family: 'Amatic SC', cursive;
+  color: white;
+  margin-left: 30px;
+}
+
+.first{
+  margin-right: 200px;
+}
+
+.second{
+  font-family: 'Amatic SC', cursive;
+  color: white;
+  height: 800px;
+  margin-top: 250px;
+  margin-left: 150px;
+  margin-right: 150px;
+  background-color: #264653
+}
+
+
+table{
+  font-size: 20px;
+  position:relative;
+  left: 50px;
+  top:100;
+}
+.smartphone{
+  position: relative;
+  left: 430px;
+  bottom: 450px;
+}
+
+.groupon{
+  position: relative;
+  bottom: 505px;
+  left:51px;
+}
+
+.title{
+  font-size: 50px;
+}
+
+td{
+  vertical-align: text-top;
+
+}
+
+.third{
+  font-family: 'Amatic SC', cursive;
+  color: white;
+  height: 800px;
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+  background-color: #31393c
+}
+
+.stats{
+  position: relative;
+  width: 20%;
+  left: 230px;
+  bottom: 300px;
+}
+
+.social {
+  width: 15%;
+  position: relative;
+  bottom: 50px;
+  left: 50px;
+
+}
+
+.targ {
+  width: 25%;
+  position: relative;
+  left: 600px;
+
+}
+
+.fourth {
+  font-family: 'Amatic SC', cursive;
+  color: white;
+  height: 800px;
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+  background-color: #264653
+
+}
+
+.pipe {
+  width: 30%;
+  position: relative;
+  left:600px;
+  bottom: 300px;
+
+}

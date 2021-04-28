@@ -1,0 +1,49 @@
+body{
+  background-color: #e76f51
+
+
+}
+
+img{
+  border-radius: 100%;
+}
+
+
+a{
+  font-family: 'Amatic SC', cursive;
+  font-size: 35px;
+  color: white;
+  margin-left: 30px;
+}
+
+table{
+
+  margin-left: 100px;
+  margin-top: 30px;
+  margin-right: 100px;
+
+}
+
+h1{
+  font-family: 'Shadows Into Light', cursive;
+  color: #264653;
+}
+h3{
+  font-family: 'Shadows Into Light', cursive;
+  color: #264653;
+}
+
+.top {
+  vertical-align: top;
+}
+
+.second{
+  margin-left: 25px;
+  font-family: 'Shadows Into Light', cursive;
+  color: #264653;
+
+}
+
+.table{
+  font-size: 25px;
+}
