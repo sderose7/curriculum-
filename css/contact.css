@@ -1,0 +1,46 @@
+body {
+  background-color: #e9c46a;
+  max-width: 62.5em;
+  margin: auto;
+  padding: 0.625em;
+
+}
+
+.firstRow{
+background-color: #264653;
+position: sticky;
+top: 0;
+z-index: 9999;
+margin-left: 2em;
+margin-right: 2em;
+
+}
+
+a{
+
+  font-size:3em;
+  font-family: 'Amatic SC', cursive;
+  color: white;
+  margin-left: 1.875em;
+  margin-top: 2em
+}
+
+.second{
+  color: #264653;
+  font-size: 2em;
+  font-family: 'Amatic SC', cursive;
+
+  margin-top: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+table {
+  font-size: 1em;
+  color: #264653;
+  font-family: 'Amatic SC', cursive;
+}
+form {
+  font-size: 1em;
+  color: #264653;
+  font-family: 'Amatic SC', cursive;
+}

@@ -1,78 +1,102 @@
 body {
   background-color: #2a9d8f;
+  max-width: 62.5em;
+  margin: auto;
+  padding: 0.625em;
 
 }
+
+.firstRow{
+background-color: #264653;
+position: sticky;
+top: 0;
+z-index: 9999;
+margin-left: 2em;
+margin-right: 2em;
+
+}
+.first{
+
+  margin-left: 2em;
+  margin-right: 2em;
+
+}
+
 .titolo{
   color: #264653;
-  font-size:45px;
+  font-size:3.5em;
   position:relative;
-  left:200px;
-  top:130px;
+  left:0.5em;
+  top:3em;
   font-family: 'Pacifico', cursive;
 
 }
 
-.fonte{
 
-}
 
 .lampadina{
-  width: 350px;
-  height: 350px;
+  width: 20.875em;
+  height: 20.875em;
   position: relative;
-  left:650px;
-  bottom: 150px;
+  left:18.625em;
+  bottom: 7.375em;
 }
 
 .nuvola{
-  width: 250px;
-  height: 250px;
+  width: 20.625em;
+  height: 20.625em;
   position: relative;
-  left:550px;
-  bottom:160px;
+  left:29.375em;
+  bottom:19em;
 }
 
 h2 {
   font-family: 'Amatic SC', cursive;
 }
 a{
-  font-size: 35px;
+
+  font-size:3em;
   font-family: 'Amatic SC', cursive;
   color: white;
-  margin-left: 30px;
+  margin-left: 1.875em;
+  margin-top: 2em
 }
 
-.first{
-  margin-right: 200px;
-}
+
 
 .second{
   font-family: 'Amatic SC', cursive;
   color: white;
-  height: 800px;
-  margin-top: 250px;
-  margin-left: 150px;
-  margin-right: 150px;
-  background-color: #264653
+  height: 50em;
+  margin-top: 16em;
+  margin-left: 2em;
+  margin-right: 2em;
+
+  background-color: #264653;
+
+
 }
 
 
 table{
-  font-size: 20px;
+  font-size: 1.8em;
   position:relative;
-  left: 50px;
-  top:100;
+  left: 3.125em;
+  top:1em;
 }
 .smartphone{
+
   position: relative;
-  left: 430px;
-  bottom: 450px;
+
+  left: 28.875em;
+  bottom: 34.125em;
 }
 
 .groupon{
   position: relative;
-  bottom: 505px;
-  left:51px;
+
+  bottom: 37.5625em;
+  left:5.1875em;
 }
 
 .title{
@@ -87,50 +111,54 @@ td{
 .third{
   font-family: 'Amatic SC', cursive;
   color: white;
-  height: 800px;
-  margin-top: 50px;
-  margin-left: 150px;
-  margin-right: 150px;
+  height: 50em;
+  margin-top: 16em;
+  margin-left: 2em;
+  margin-right: 2em;
   background-color: #31393c
 }
 
 .stats{
   position: relative;
-  width: 20%;
-  left: 230px;
-  bottom: 300px;
+  margin-right: 2em;
+  width: 20em;
+  height: 20em;
+  left: 34.5em;
+  bottom:23.75em;
 }
 
 .social {
-  width: 15%;
+  width: 20em;
   position: relative;
-  bottom: 50px;
-  left: 50px;
+  bottom:  3.125em;
+  left:  3.125em;
 
 }
 
 .targ {
-  width: 25%;
+
+  height: 20em;
+  width: 20em;
   position: relative;
-  left: 600px;
+  left: 32.5em;
 
 }
 
 .fourth {
   font-family: 'Amatic SC', cursive;
   color: white;
-  height: 800px;
-  margin-top: 50px;
-  margin-left: 150px;
-  margin-right: 150px;
+  height: 50em;
+  margin-top: 16em;
+  margin-left: 2em;
+  margin-right: 2em;
   background-color: #264653
 
 }
 
 .pipe {
-  width: 30%;
+  width: 20em;
   position: relative;
-  left:600px;
-  bottom: 300px;
+  left:34em;
+  bottom: 18.75em;
 
 }
